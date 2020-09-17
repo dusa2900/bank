@@ -1,0 +1,13 @@
+.carousel img
+{
+    height: 500px;
+}
+.media img
+{
+    width:50%;
+}
+.container-fluid img
+{
+    width: 75%;
+    height: 200px;
+}
